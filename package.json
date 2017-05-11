@@ -1,0 +1,16 @@
+{
+  "name": "ethtrader10",
+  "version": "0.0.1",
+  "description": "EthTrader10 index of top 10 Ethereum based tokens by market cap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carl Larson <cslarson@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
